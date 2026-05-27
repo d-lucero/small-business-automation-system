@@ -1,6 +1,5 @@
 # small-business-automation-system
 Automated client intake and reporting system using Python and SQL to streamline small business operations and generate real-time insights.
-# Small Business Automation System
 
 ## Project Overview
 This project demonstrates how Python and SQL can be used to automate client intake tracking and reporting for small businesses and nonprofit organizations.
