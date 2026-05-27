@@ -1,0 +1,9 @@
+client_id,first_name,last_name,email,service_needed,county,status,intake_date
+1,Maria,Lopez,maria.lopez@email.com,Housing,King,New,2026-05-01
+2,James,Wilson,james.wilson@email.com,Employment,Pierce,Contacted,2026-05-03
+3,Amina,Diallo,amina.diallo@email.com,Education,King,New,2026-05-04
+4,Grace,Johnson,grace.johnson@email.com,Housing,Snohomish,Completed,2026-05-05
+5,Samuel,Brown,samuel.brown@email.com,Employment,King,New,2026-05-06
+6,Fatima,Ali,fatima.ali@email.com,Education,Pierce,Completed,2026-05-08
+7,David,Kim,david.kim@email.com,Housing,King,Contacted,2026-05-10
+8,Esther,Mbala,esther.mbala@email.com,Employment,Snohomish,New,2026-05-12
